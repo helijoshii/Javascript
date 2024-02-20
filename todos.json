@@ -1,0 +1,12 @@
+[
+    { "text": "Heli", "age": 25 },
+    { "text": "Kalle", "age": 30 },
+    { "text": "Jukka", "age": 35},
+    { "text": "Mikko", "age": 40 },
+    { "text": "Jussi", "age": 45 },
+    { "text": "Pekka", "age": 50 },
+    { "text": "Matti", "age": 55 },
+    { "text": "Jarmo", "age": 60 },
+    { "text": "Jari", "age": 65 },
+    { "text": "Kari", "age": 70 }
+]
